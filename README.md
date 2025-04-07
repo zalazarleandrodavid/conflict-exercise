@@ -1,3 +1,3 @@
 # conflict-exercise
 Programacion 1
-"git"
+"git ejercicios"
